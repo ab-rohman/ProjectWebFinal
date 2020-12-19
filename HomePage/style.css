@@ -1,0 +1,127 @@
+.jumbotron{
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.2)), url("img/slide.jpg") fixed center center;
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    margin-top: -120px;
+}
+.jumbotron .display-4{
+    color: white;
+    margin-top: 200px;
+}
+.jumbotron p{
+    color: white;
+}
+.jumbotron hr{
+    border-color: dimgray;
+    width: 70px;
+    border-width: 3px; 
+}
+
+.navbar .navbar-collapse a{
+    font-family: "Sans-serif", Helvetica;
+    background: gray;
+    display: inline-block;
+    padding: 5px 20px;
+    border-radius: 5px;
+    transition: 0.5s;
+    color: #fff;
+}
+.navbar .navbar-collapse li:hover {
+    background: dimgray;
+    border-radius: 10px;
+  }
+
+section {
+    padding: 60px 0;
+    overflow: hidden;
+  }
+  
+  .section-bg {
+    background-color: #f6f6f7;
+  }
+  
+  .section-title {
+    padding-bottom: 30px;
+  }
+  
+  .section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+  }
+  
+  .section-title h2::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #009970;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .section-title p {
+    margin-bottom: 0;
+  }
+
+.about .content h2 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  .about .content h3 {
+    font-weight: 500;
+    line-height: 32px;
+    font-size: 24px;
+  }
+  
+  .about .content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .about .content ul li {
+    padding: 10px 0 0 28px;
+    position: relative;
+  }
+  
+  .about .content ul i {
+    left: 0;
+    top: 7px;
+    position: absolute;
+    font-size: 20px;
+    color: #009970;
+  }
+  
+  .about .content p:last-child {
+    margin-bottom: 0;
+  }
+
+
+.split {
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.1)), url("img/cta.jpg") fixed center center;
+    background-size: cover;
+    padding: 10px 0;
+    margin-bottom: 30px;
+  }
+  
+  .split h3 {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 700;
+  }
+  
+  .split p {
+    color: #fff;
+  }
+
+
+  

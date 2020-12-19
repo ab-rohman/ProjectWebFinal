@@ -1,0 +1,95 @@
+body {
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(2, 2, 2, 0.5)), url("img/slide.jpg") fixed center center;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+.login-icon {
+    margin-top: 75px;
+    border-radius: 10px;
+    height: auto;
+    background: #1A2226 ;
+    text-align: center;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5), 0 3px 6px rgba(0, 0, 0, 0.5);
+}
+
+.icon {
+    height: 100px;
+    font-size: 80px;
+    line-height: 100px;
+}
+.icon img{
+    height: 70px;
+    width: 70px;
+}
+
+.login-title {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #ECF0F5;
+}
+
+.login-form {
+    margin-top: 25px;
+    text-align: left;
+}
+
+.form-group {
+    margin-bottom: 40px;
+    outline: 0px;
+}
+
+label {
+    margin-bottom: 0px;
+}
+
+.form-control-label {
+    font-size: 10px;
+    color: #6C6C6C;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.login-btm {
+    float: right;
+}
+
+.login-button {
+    padding-right: 0px;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: -28px;
+}
+
+.login-text {
+    text-align: right;
+    padding-left: 0px;
+    color: #ECF0F5;
+}
+.login-text a:hover{
+    color: #ECF0F5;
+}
+
+.loginbttm {
+    padding: 0px;
+}
+.register-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #ECF0F5;
+}
+
+.register-title a:link {
+    color: #1A73E8;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    font-size: 15px;
+    background-color: transparent;
+  }
